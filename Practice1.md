@@ -11,9 +11,6 @@
 ## 二. Github 简介
 1.什么是Github？
 *确切的说 GitHub 是一家公司，位于旧金山，由 Chris Wanstrath, PJ Hyett 与 Tom Preston-Werner 三位开发者在2008年4月创办。gitHub于2008年4月10日正式上线，除了git代码仓库托管及基本的 Web管理界面以外，还提供了订阅、讨论组、文本渲染、在线文件编辑器、协作图谱（报表）、代码片段分享（Gist）等功能。目前，其注册用户已经超过350万。  
- <div align=center><img width="150" height="150" src="timg.JPG"/></div>  
-<center>（Github的logo）</center>
-
 2.Github与Git的关系
 *注意github不是git，Git是一款免费、开源的分布式版本控制系统，他是著名的 Linux 发明者 Linus Torvalds 开发的，而Github主要提供基于 git 的版本托管服务。也就是说现在 GitHub 上托管的所有项目代码都是基于 Git 来进行版本控制的，所以 Git 只是 GitHub 上用来管理项目的一个工具而已。  
 3.Github的基本功能
