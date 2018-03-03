@@ -3,14 +3,14 @@
 <div align=left>
     
 ## 一. Github账户
-1.户名：JohnKHe 
-2.用的电子信箱：1016736163@qq.com
-3.账户主页面截图：  
+1. 户名：JohnKHe 
+2. 用的电子信箱：1016736163@qq.com
+3. 账户主页面截图：  
 <div align=center><img src="Github主页.PNG"/></div>   
 
 ## 二. Github 简介
 1.什么是Github？
-*切的说 GitHub 是一家公司，位于旧金山，由 Chris Wanstrath, PJ Hyett 与 Tom Preston-Werner 三位开发者在2008年4月创办。gitHub于2008年4月10日正式上线，除了git代码仓库托管及基本的 Web管理界面以外，还提供了订阅、讨论组、文本渲染、在线文件编辑器、协作图谱（报表）、代码片段分享（Gist）等功能。目前，其注册用户已经超过350万。  
+*确切的说 GitHub 是一家公司，位于旧金山，由 Chris Wanstrath, PJ Hyett 与 Tom Preston-Werner 三位开发者在2008年4月创办。gitHub于2008年4月10日正式上线，除了git代码仓库托管及基本的 Web管理界面以外，还提供了订阅、讨论组、文本渲染、在线文件编辑器、协作图谱（报表）、代码片段分享（Gist）等功能。目前，其注册用户已经超过350万。  
  <div align=center><img width="150" height="150" src="timg.JPG"/></div>  
 <center>（Github的logo）</center>
 
