@@ -1,6 +1,7 @@
 # <div align=center>**软件工程作业一**
 <div align=right>03015325 高贺同
-
+<div align=left>
+    
 ## 一. Github账户
 1.户名：JohnKHe 
 2.用的电子信箱：1016736163@qq.com
